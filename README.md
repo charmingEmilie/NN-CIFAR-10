@@ -4,7 +4,7 @@ This repository implements a three-layer neural network for image classification
 
 ## Features
 
-- Three-layer neural network with ReLU/Sigmoid activation
+- Three-layer neural network with Sigmoid activation
 - Batch training with learning rate decay
 - L2 regularization
 - Hyperparameter search
